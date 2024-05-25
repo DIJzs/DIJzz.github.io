@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Christopher Bang - Página Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .skills {
+            background-color: #f4f4f4;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .skills h2 {
+            color: #333;
+        }
+        .skills p {
+            color: #666;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>HOLA ME LLAMO CRIS ME LLAMO BANGCHAN</h1>
+    </header>
+    <section>
+        <h2>Sobre mí</h2>
+        <p>¡Hola! Soy Christopher Bang, pero puedes llamarme Cris o Bangchan. Bienvenido a mi página personal.</p>
+    </section>
+    <section class="skills">
+        <h2>Habilidades</h2>
+        <p>Se saltar y soy muy guapo.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Christopher Bang. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
